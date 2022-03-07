@@ -19,5 +19,6 @@ public class PermissionsLimited extends JavaPlugin {
 
     @Override
     public void onDisable() {
+        ConsoleUtil.pluginLog("插件已卸载，欢迎再次使用！");
     }
 }
