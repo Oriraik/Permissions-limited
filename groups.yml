@@ -1,0 +1,12 @@
+visitor:
+  - "visitor"
+common:
+  - "common"
+veteran:
+  - "veteran"
+vip:
+  - "vip"
+svip:
+  - "svip"
+administrator:
+  - "administrator"
